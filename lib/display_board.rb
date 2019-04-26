@@ -2,7 +2,8 @@
 # out the current state.
 
 def display_board(board)  # dispaly board based on array of user positions
-  puts board
+  puts "   |   |   "
+  puts "   |   |   "
   puts "   |   |   "
 end
 
