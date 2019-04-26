@@ -9,5 +9,5 @@ def display_board(board)  # dispaly board based on array of user positions
   puts "   |   |   "
 end
 
-board = ["X"," "," "," "," "," "," "," "," "]
+board = [""," "," "," "," "," "," "," "," "]
 display_board(board)
