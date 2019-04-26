@@ -4,7 +4,7 @@
 def display_board(board)  # dispaly board based on array of user positions
   puts "   |   |   "
   puts "-----------"
-  puts "   |   |   "
+  puts "   | #{board[4]} |   "
   puts "-----------"
   puts "   |   |   "
 end
